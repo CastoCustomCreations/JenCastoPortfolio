@@ -52,7 +52,7 @@ const about = {
   imageLink: require("../editable-stuff/JenCasto.png"),
   imageSize: 375,
   message:"Recent Kent State University graduate with two degrees in Information Technology and experience as a Full Stack Developer and Multimedia Editor. Strongly skilled in programming languages such as Java, Javascript, and C#. Deep understanding of data structures, algorithms, and software design principles. Proficient in Agile methodologies and version control systems.",
-  resume: "https://drive.google.com/file/d/1f_iusCIltKh6wSv4k-6WMXu7JbMA1XmP/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1wxvxg5gE8mvlAIu7LJrX-rzMotZrr3Dc/view?usp=sharing",
 };
 //      My name is Jen Casto. I graduated Kent State University with two Bachelors of Science in Information Technology with honors in Dec 2022. I'm most passionate about automobiles and robots, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects."
 
