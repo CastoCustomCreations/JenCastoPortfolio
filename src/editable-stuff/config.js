@@ -66,7 +66,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "CastoCustomCreations", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["storetemplate_frontend","storetemplate_backend","store1","blackjack-react-app","Minesweeper-Game-in-React","react-tetris"],
+  specificRepos: ["StoreAdminUI","StoreCustomerUI","StoreAPI","StoreAPITests","blackjack-react-app","Minesweeper-Game-in-React","react-tetris"],
 };
 
 
@@ -77,20 +77,20 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "HTML/CSS", value: 100 },
-    { name: "JavaScript", value: 95 },
-    { name: "Java", value: 95},
-    { name: "C#", value: 95 },
-    { name: "SQL", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "Python", value: 50 },
+    { name: "JavaScript", value: 100 },
+    { name: "Java", value: 100},
+    { name: "C#", value: 100 },
+    { name: "SQL", value: 100 },
+    { name: "C/C++", value: 100 },
+    { name: "Python", value: 100 },
     { name: "Visual Basic Applications for Microsoft Office", value: 100 },
     { name: "Data Structures", value: 100 },
-    { name: "React", value: 85 },
-    { name: "Angular", value: 75 },   
-    { name: "Vue", value: 65 },
-    { name: "Adobe Photoshop", value: 95 },
-    { name: "Adobe Premiere", value: 95 },
-    { name: "Adobe After Effects", value: 60 },
+    { name: "React", value: 100 },
+    { name: "Angular", value: 100 },   
+    { name: "Vue", value: 100 },
+    { name: "Adobe Photoshop", value: 100 },
+    { name: "Adobe Premiere", value: 100 },
+    { name: "Adobe After Effects", value: 100 },
   ],
   softSkills: [
 
@@ -114,7 +114,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time entry-level remote front-end or back-end developer opportunities! If you know of any positions available, or if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for Junior Fullstack developer opportunities!",
   email: "CastoCustomCreations@gmail.com",
 };
 
@@ -123,9 +123,9 @@ const experiences = {
   heading: "Education",
   data: [
     {
-      role: '(2) Bachelor of Science in Information Technology',// Here Add Company Name
-      role1:'Software Application Development',
-      role2:'Internet and Multimedia',
+      role: 'Bachelor of Science in Information Technology',// Here Add Company Name
+      role1:'Major # 1: Software Application Development',
+      role2:'Major # 2: Internet and Multimedia',
       companylogo: require('../assets/img/Kent_State_seal.png'),
       date: 'June 2017 – 2022',
     },
