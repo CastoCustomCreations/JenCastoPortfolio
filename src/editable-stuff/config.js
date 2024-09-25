@@ -52,7 +52,7 @@ const about = {
   imageLink: require("../editable-stuff/JenCasto.png"),
   imageSize: 375,
   message:"Recent Kent State University graduate with two degrees in Information Technology and experience as a Full Stack Developer and Multimedia Editor. Strongly skilled in programming languages such as Java, Javascript, and C#. Deep understanding of data structures, algorithms, and software design principles. Proficient in Agile methodologies and version control systems.",
-  resume: "https://docs.google.com/document/d/1y5QOZp2F9GcQNw4Jmkj6nEJToNGURfOZZ8Dv12EAuhI/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1wD3BV-D-QUwTPN8HMqZlbSf5LRbEy0Wp/view?usp=sharing",
 
   
 
