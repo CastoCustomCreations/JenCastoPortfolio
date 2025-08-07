@@ -69,7 +69,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "CastoCustomCreations", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["StoreAdminUI","StoreCustomerUI","StoreAPI","StoreAPITests","blackjack-react-app","Minesweeper-Game-in-React","react-tetris"],
+  specificRepos: ["StoreAdminUI","StoreCustomerUI","StoreAPI","StoreAPITests","JenCastoPortfolio","blackjack-react-app","Minesweeper-Game-in-React","react-tetris"],
 };
 
 
