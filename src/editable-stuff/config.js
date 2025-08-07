@@ -6,7 +6,7 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  imageLink: require("../editable-stuff/JenCasto.png"),
+  imageLink: require("../editable-stuff/JenniferCasto.png"),
   firstName: "Jen",
   middleName: "",
   lastName: "Casto",
@@ -49,9 +49,9 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/JenCasto.png"),
+  imageLink: require("../editable-stuff/JenniferCasto.png"),
   imageSize: 375,
-  message:"Recent Kent State University graduate with two degrees in Information Technology and experience as a Full Stack Developer and Multimedia Editor. Strongly skilled in programming languages such as Java, Javascript, and C#. Deep understanding of data structures, algorithms, and software design principles. Proficient in Agile methodologies and version control systems.",
+  message:"● An innovative and detail-oriented Full-Stack Software Engineer who has freelance experience designing, developing, and deploying scalable web and mobile applications. ● Experienced in full-stack development, leveraging modern programming languages such as C#, Java, JavaScript, TypeScript, and Python, along with frameworks like .NET, React.js, Angular, Node.js, and Spring Boot. ● Proficient in API development (RESTful & SOAP), database design (SQL Server, NoSQL, Firebase, MongoDB), and cloud computing (AWS, Azure, GCP)Kent State University graduate with two degrees in Information Technology and experience as a Full Stack Developer and Multimedia Editor. Strongly skilled in programming languages such as Java, Javascript, and C#. Deep understanding of data structures, algorithms, and software design principles. Proficient in Agile methodologies and version control systems.",
   resume: "https://drive.google.com/file/d/1wD3BV-D-QUwTPN8HMqZlbSf5LRbEy0Wp/view?usp=sharing",
 
   
@@ -117,7 +117,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for Junior Fullstack developer opportunities!",
+    "Lets discuss how I can build your dream application!",
   email: "CastoCustomCreations@gmail.com",
 };
 
@@ -130,13 +130,13 @@ const experiences = {
       role1:'Major # 1: Software Application Development',
       role2:'Major # 2: Internet and Multimedia',
       companylogo: require('../assets/img/Kent_State_seal.png'),
-      date: 'June 2017 – 2022',
+      date: 'Dec 2022',
     },
     {
       role: 'Google Developer',
       role1:'Android Developer Certification',
       companylogo: require('../assets/img/google-developer.png'),
-      date: 'May 2018 – May 2023',
+      date: '',
     },
   ]
 }
