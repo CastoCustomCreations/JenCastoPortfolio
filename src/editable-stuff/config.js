@@ -52,7 +52,7 @@ const about = {
   imageLink: require("../editable-stuff/JenniferCasto.png"),
   imageSize: 375,
   message:"● An innovative and detail-oriented Full-Stack Software Engineer who has freelance experience designing, developing, and deploying scalable web and mobile applications. ● Experienced in full-stack development, leveraging modern programming languages such as C#, Java, JavaScript, TypeScript, and Python, along with frameworks like .NET, React.js, Angular, Node.js, and Spring Boot. ● Proficient in API development (RESTful & SOAP), database design (SQL Server, NoSQL, Firebase, MongoDB), and cloud computing (AWS, Azure, GCP)Kent State University graduate with two degrees in Information Technology and experience as a Full Stack Developer and Multimedia Editor. Strongly skilled in programming languages such as Java, Javascript, and C#. Deep understanding of data structures, algorithms, and software design principles. Proficient in Agile methodologies and version control systems.",
-  resume: "https://drive.google.com/file/d/1wD3BV-D-QUwTPN8HMqZlbSf5LRbEy0Wp/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/14Ca6RViT828vZLRErDaTK9QHeLrwoUCu/view?usp=sharing",
 
   
 
