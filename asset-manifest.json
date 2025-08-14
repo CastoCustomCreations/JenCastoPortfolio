@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/JenCastoPortfolio/static/css/main.fe927caf.css",
-    "main.js": "/JenCastoPortfolio/static/js/main.43664322.js",
+    "main.js": "/JenCastoPortfolio/static/js/main.40584e8b.js",
     "static/js/787.4b24f717.chunk.js": "/JenCastoPortfolio/static/js/787.4b24f717.chunk.js",
     "static/media/JenniferCasto.png": "/JenCastoPortfolio/static/media/JenniferCasto.bb5a1369e2aa2455493f.png",
     "static/media/Kent_State_seal.png": "/JenCastoPortfolio/static/media/Kent_State_seal.5ecf156bf45f979468cc.png",
     "static/media/google-developer.png": "/JenCastoPortfolio/static/media/google-developer.1121a7e349630a889546.png",
     "index.html": "/JenCastoPortfolio/index.html",
     "main.fe927caf.css.map": "/JenCastoPortfolio/static/css/main.fe927caf.css.map",
-    "main.43664322.js.map": "/JenCastoPortfolio/static/js/main.43664322.js.map",
+    "main.40584e8b.js.map": "/JenCastoPortfolio/static/js/main.40584e8b.js.map",
     "787.4b24f717.chunk.js.map": "/JenCastoPortfolio/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.43664322.js"
+    "static/js/main.40584e8b.js"
   ]
 }
